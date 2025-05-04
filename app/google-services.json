@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "656700244525",
+    "project_id": "coffee-disease-classifier",
+    "storage_bucket": "coffee-disease-classifier.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:656700244525:android:4c01b05f5f36ebaa1e6ea4",
+        "android_client_info": {
+          "package_name": "com.example.coffeerustleafclassifier"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "656700244525-t4gor08p2e1hh86rpm0auo2bh4oina8l.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.coffeerustleafclassifier",
+            "certificate_hash": "72322d60041be18d672ecfebc85fb81fe0a444bb"
+          }
+        },
+        {
+          "client_id": "656700244525-tdrt89q0h08e5pt2fmvhl782o3nqvna7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDV72fz4buDMVAy9L__nxXmXWTmQ4bEb2A"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "656700244525-tdrt89q0h08e5pt2fmvhl782o3nqvna7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

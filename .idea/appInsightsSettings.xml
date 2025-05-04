@@ -8,10 +8,10 @@
             <InsightsFilterSettings>
               <option name="connection">
                 <ConnectionSetting>
-                  <option name="appId" value="PLACEHOLDER" />
-                  <option name="mobileSdkAppId" value="" />
-                  <option name="projectId" value="" />
-                  <option name="projectNumber" value="" />
+                  <option name="appId" value="com.example.coffeerustleafclassifier" />
+                  <option name="mobileSdkAppId" value="1:656700244525:android:4c01b05f5f36ebaa1e6ea4" />
+                  <option name="projectId" value="coffee-disease-classifier" />
+                  <option name="projectNumber" value="656700244525" />
                 </ConnectionSetting>
               </option>
               <option name="signal" value="SIGNAL_UNSPECIFIED" />
